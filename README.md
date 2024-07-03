@@ -9,3 +9,5 @@ I'm learning how to mint coins by hand.
 I'm a maths enthusiast, missing useful applications.
 
 I'm trying to learn group theory and systems theory. 
+
+In my spare time I do research at SINTEF Energy Research AS.
